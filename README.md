@@ -1,1 +1,1 @@
-WCFServer
+WCFProjet
