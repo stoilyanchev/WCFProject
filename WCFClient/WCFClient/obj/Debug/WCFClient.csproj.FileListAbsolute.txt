@@ -1,0 +1,12 @@
+G:\work\example\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+G:\work\example\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+G:\work\example\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+G:\work\example\WCFClient\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+G:\work\example\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+G:\work\example\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\syanchev\Desktop\example\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\syanchev\Desktop\example\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\syanchev\Desktop\example\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\syanchev\Desktop\example\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\syanchev\Desktop\example\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\syanchev\Desktop\example\WCFClient\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache

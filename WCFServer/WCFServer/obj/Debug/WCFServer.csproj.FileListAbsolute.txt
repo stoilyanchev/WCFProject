@@ -1,0 +1,11 @@
+G:\work\example\WCFServer\WCFServer\bin\Debug\WCFServer.exe.config
+G:\work\example\WCFServer\WCFServer\bin\Debug\WCFServer.exe
+G:\work\example\WCFServer\WCFServer\bin\Debug\WCFServer.pdb
+G:\work\example\WCFServer\WCFServer\obj\Debug\WCFServer.exe
+G:\work\example\WCFServer\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\syanchev\Desktop\example\WCFServer\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\syanchev\Desktop\example\WCFServer\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\syanchev\Desktop\example\WCFServer\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\syanchev\Desktop\example\WCFServer\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\syanchev\Desktop\example\WCFServer\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\syanchev\Desktop\example\WCFServer\WCFServer\obj\Debug\WCFServer.csprojResolveAssemblyReference.cache
